@@ -1,0 +1,258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Bow
+  m_Mask: 00000000010000000100000001000000010000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armor
+    m_Weight: 1
+  - m_Path: Cape
+    m_Weight: 1
+  - m_Path: Lamp
+    m_Weight: 1
+  - m_Path: Pali_Bones
+    m_Weight: 1
+  - m_Path: Pali_Bones/Arm_L_IK
+    m_Weight: 1
+  - m_Path: Pali_Bones/Arm_L_IK/Elbow.L
+    m_Weight: 1
+  - m_Path: Pali_Bones/Arm_L_IK/Elbow.L/Elbow.L_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Arm_R_IK
+    m_Weight: 1
+  - m_Path: Pali_Bones/Arm_R_IK/Elbow.R
+    m_Weight: 1
+  - m_Path: Pali_Bones/Arm_R_IK/Elbow.R/Elbow.R_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Bone
+    m_Weight: 1
+  - m_Path: Pali_Bones/Bone/Bone_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/FootIk.L
+    m_Weight: 0
+  - m_Path: Pali_Bones/FootIk.L/Foot_L
+    m_Weight: 0
+  - m_Path: Pali_Bones/FootIk.L/Foot_L/Toe_L
+    m_Weight: 0
+  - m_Path: Pali_Bones/FootIk.L/Foot_L/Toe_L/Toe_L_end
+    m_Weight: 0
+  - m_Path: Pali_Bones/FootIk.L/Knee_L
+    m_Weight: 0
+  - m_Path: Pali_Bones/FootIk.L/Knee_L/Knee_L_end
+    m_Weight: 0
+  - m_Path: Pali_Bones/Hip
+    m_Weight: 0
+  - m_Path: Pali_Bones/Hip/Hip_Armor_tmp
+    m_Weight: 0
+  - m_Path: Pali_Bones/Hip/Hip_Armor_tmp/Hip_Armor_tmp_end
+    m_Weight: 0
+  - m_Path: Pali_Bones/Hip/Spine
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.004
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.004/Bone.003_L.018
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.004/Bone.003_L.018/Bone.003_L.019
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.004/Bone.003_L.018/Bone.003_L.019/Bone.003_L.020
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.004/Bone.003_L.018/Bone.003_L.019/Bone.003_L.020/Bone.003_L.020_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.005
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.005/Bone.003_L.015
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.005/Bone.003_L.015/Bone.003_L.016
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.005/Bone.003_L.015/Bone.003_L.016/Bone.003_L.017
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.005/Bone.003_L.015/Bone.003_L.016/Bone.003_L.017/Bone.003_L.017_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.006
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.006/Bone.003_L.012
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.006/Bone.003_L.012/Bone.003_L.013
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.006/Bone.003_L.012/Bone.003_L.013/Bone.003_L.014
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.006/Bone.003_L.012/Bone.003_L.013/Bone.003_L.014/Bone.003_L.014_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.007
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.007/Bone.003_L.009
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.007/Bone.003_L.009/Bone.003_L.010
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.007/Bone.003_L.009/Bone.003_L.010/Bone.003_L.011
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.007/Bone.003_L.009/Bone.003_L.010/Bone.003_L.011/Bone.003_L.011_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.008
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.008/Bone.003_L.021
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.008/Bone.003_L.021/Bone.003_L.022
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bone.003_L.008/Bone.003_L.021/Bone.003_L.022/Bone.003_L.022_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bow_Tmp
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Bow_Tmp/Bow_Tmp_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.004
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.004/Bone.003_R.018
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.004/Bone.003_R.018/Bone.003_R.019
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.004/Bone.003_R.018/Bone.003_R.019/Bone.003_R.020
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.004/Bone.003_R.018/Bone.003_R.019/Bone.003_R.020/Bone.003_R.020_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.005
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.005/Bone.003_R.015
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.005/Bone.003_R.015/Bone.003_R.016
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.005/Bone.003_R.015/Bone.003_R.016/Bone.003_R.017
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.005/Bone.003_R.015/Bone.003_R.016/Bone.003_R.017/Bone.003_R.017_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.006
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.006/Bone.003_R.012
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.006/Bone.003_R.012/Bone.003_R.013
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.006/Bone.003_R.012/Bone.003_R.013/Bone.003_R.014
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.006/Bone.003_R.012/Bone.003_R.013/Bone.003_R.014/Bone.003_R.014_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.007
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.007/Bone.003_R.009
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.007/Bone.003_R.009/Bone.003_R.010
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.007/Bone.003_R.009/Bone.003_R.010/Bone.003_R.011
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.007/Bone.003_R.009/Bone.003_R.010/Bone.003_R.011/Bone.003_R.011_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.008
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.008/Bone.003_R.021
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.008/Bone.003_R.021/Bone.003_R.022
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Bone.003_R.008/Bone.003_R.021/Bone.003_R.022/Bone.003_R.022_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Sword_Tmp
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Clavicle_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Sword_Tmp/Sword_Tmp_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Eyebrow_ctrl
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Eyebrow_ctrl/Eyebrow_ctrl_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Eyelid_ctrl
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Eyelid_ctrl/Eyelid_ctrl_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Head.001
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Head.001/Left_Eye
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Head.001/Left_Eye/EyeR
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Head.001/Left_Eye/Left_Eye_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Head.001/Main_Controller
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Head.001/Main_Controller/Left_Eye_Controller
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Head.001/Main_Controller/Left_Eye_Controller/Left_Eye_Controller_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Head.001/Main_Controller/Right_Eye
+      Controller
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Head.001/Main_Controller/Right_Eye
+      Controller/Right_Eye Controller_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Head.001/Mouth_ctrl
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Head.001/Mouth_ctrl/Mouth_ctrl_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Head.001/Right_Eye
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Head.001/Right_Eye/EyeL
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Spine/Spine.002/Spine.003/Chest/Neck/Head/Head.001/Right_Eye/Right_Eye_end
+    m_Weight: 1
+  - m_Path: Pali_Bones/Hip/Upper_Leg_L
+    m_Weight: 0
+  - m_Path: Pali_Bones/Hip/Upper_Leg_L/Lower_Leg_L
+    m_Weight: 0
+  - m_Path: Pali_Bones/Hip/Upper_Leg_L/Lower_Leg_L/Lower_Leg_L_end
+    m_Weight: 0
+  - m_Path: Pali_Bones/Hip/Upper_Leg_R
+    m_Weight: 0
+  - m_Path: Pali_Bones/Hip/Upper_Leg_R/Lower_Leg_R
+    m_Weight: 0
+  - m_Path: Pali_Bones/Hip/Upper_Leg_R/Lower_Leg_R/Lower_Leg_R_end
+    m_Weight: 0
+  - m_Path: Pali_Bones/Knee_R.001
+    m_Weight: 0
+  - m_Path: Pali_Bones/Knee_R.001/FootIk.R
+    m_Weight: 0
+  - m_Path: Pali_Bones/Knee_R.001/FootIk.R/Foot_R
+    m_Weight: 0
+  - m_Path: Pali_Bones/Knee_R.001/FootIk.R/Foot_R/Toe_R
+    m_Weight: 0
+  - m_Path: Pali_Bones/Knee_R.001/FootIk.R/Foot_R/Toe_R/Toe_R_end
+    m_Weight: 0
+  - m_Path: Pali_Bones/Knee_R.001/FootIk.R/Knee_R
+    m_Weight: 0
+  - m_Path: Pali_Bones/Knee_R.001/FootIk.R/Knee_R/Knee_R_end
+    m_Weight: 0
+  - m_Path: sHIRT
+    m_Weight: 1
+  - m_Path: Skirt
+    m_Weight: 1
+  - m_Path: Sun
+    m_Weight: 1
+  - m_Path: UnderSkirt
+    m_Weight: 1
